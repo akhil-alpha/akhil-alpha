@@ -15,6 +15,14 @@ Driven by curiosity and continuous learning, I enjoy experimenting with new tool
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akhil-alpha&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-alpha&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+💻 Languages: HTML, CSS, Python
+
+🎨 Front-End: Bootstrap, Responsive Design
+
+⚙️ Tools: Git, GitHub, VS Code
+
+🔐 Interests: Cybersecurity, DevOps, Automation
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akhil-alpha&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
