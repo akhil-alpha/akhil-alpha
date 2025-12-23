@@ -1,6 +1,9 @@
 # 💫 About Me:
-👨‍💻 Ongoing BCA student on a quest to debug life one line of code at a time! 🎨 Front-end enthusiast who believes in crafting pixel-perfect websites and making them as smooth as my coffee. 🎬 Aspiring video editor with a knack for turning ordinary footage into cinematic masterpieces (or at least I try). 🕵️‍♂️ Eager to dive into the cybersecurity world and explore how to keep digital spaces secure. 🚀 Always learning, sometimes creating, and forever curious. Let’s build something cool together!
+BCA graduate and currently pursuing MCA, with a strong interest in building reliable, secure, and scalable digital solutions. I have hands-on experience in front-end web development and a growing foundation in backend and automation using Python.
 
+I am almost proficient in HTML, CSS, Bootstrap, and Python, with a keen eye for clean UI and responsive design. Alongside development, I am actively exploring Cybersecurity concepts and DevOps practices, aiming to build systems that are not only functional but also secure and efficient.
+
+Driven by curiosity and continuous learning, I enjoy experimenting with new tools, improving my problem-solving skills, and contributing to meaningful projects. Currently seeking internships and part-time opportunities where I can apply my skills and grow as a developer and security-focused engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akhil-saji-843650317/) 
